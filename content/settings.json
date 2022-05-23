@@ -1,26 +1,26 @@
 {
   "domain": "joiasmilan.netlify.app",
   "currency_symbol": "R$",
-  "primary_color": "#222831",
+  "primary_color": "#000000",
   "theme": {
-    "bootswatch": "cosmo",
-    "custom": "ecom-beauty"
+    "bootswatch": "_",
+    "custom": "_"
   },
   "bg_color": "#ffffff",
   "repository": "ecomplus-stores/joiasmilan",
   "logo": "/img/uploads/logo.png",
   "name": "joiasmilan",
-  "short_name": "joiasmilan",
+  "short_name": "Joias Milan",
   "lang": "pt_br",
   "currency": "BRL",
   "mini_logo": "",
   "font_family": "_",
-  "favicon": "/img/uploads/favicon.png",
+  "favicon": "/img/uploads/logo-icon.png",
   "icons_font": "_",
   "country_code": "BR",
-  "secondary_color": "#393e46",
-  "icon": "/img/icon.png",
+  "secondary_color": "#ffffff",
+  "icon": "/img/uploads/logo-icon.png",
   "store_id": 51268,
-  "description": "joiasmilan",
-  "large_icon": "/img/large-icon.png"
+  "description": "Joias Milan",
+  "large_icon": "/img/uploads/logo-icon.png"
 }
