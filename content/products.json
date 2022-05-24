@@ -40,6 +40,10 @@
     {
       "type": "product-specifications",
       "enabled": true
+    },
+    {
+      "type": "custom-html",
+      "html": ".eapps-faq-template-clean.eapps-faq-layout-accordion .eapps-faq-container .eapps-faq-inner .eapps-faq-content-category-items .eapps-faq-content-category-item-question {\n    background-color: transparent;\n    padding: 20px 0;\n}"
     }
   ]
 }
