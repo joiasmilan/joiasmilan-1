@@ -4,24 +4,20 @@
     "link": ""
   },
   "contacts_stripe": {
-    "pages": [
-      {
-        "title": "Sobre nós",
-        "link": "/pages/sobre-nos"
-      },
-      {
-        "title": "Esta loja é um PWA",
-        "link": "/posts/esta-loja-e-um-pwa"
-      }
-    ],
-    "phone_wpp": true,
-    "socials": true
+    "pages": [],
+    "phone_wpp": false,
+    "socials": false
   },
   "categories_list": {
-    "featured": [],
+    "featured": [
+      "/lancamentos?Lançamentos",
+      "/brincos?Brincos",
+      "/tornozeleiras?Tornozeleiras",
+      "/outlet?Outlet"
+    ],
     "random": 6,
-    "full_width": false
+    "full_width": true
   },
-  "desktop_megamenu": false,
+  "desktop_megamenu": true,
   "search_input": true
 }
