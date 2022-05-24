@@ -34,7 +34,7 @@
     },
     {
       "type": "custom-html",
-      "html": ".pt-1, .py-1 {\n    padding-top: 0rem;\n}"
+      "html": ".pt-1, .py-1 {\n    padding-top: 0rem;\n}\n"
     }
   ]
 }
