@@ -31,10 +31,6 @@
     {
       "type": "product-specifications",
       "enabled": true
-    },
-    {
-      "type": "custom-html",
-      "html": ".pt-1, .py-1 {\n    padding-top: 0rem;\n}\n"
     }
   ]
 }
