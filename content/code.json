@@ -1,5 +1,5 @@
 {
-  "css": ".header__buttons .btn {\n    box-shadow: none;\n    color: #000;\n    margin-left: var(--spacer-1);\n    padding: var(--spacer-2);\n    position: relative;\n    transition: color .2s;\n}",
+  "css": "",
   "html_head": "",
-  "html_body": ""
+  "html_body": "<script>var FUNSALES_REF_LOJA = 'li_1623095058.666276';</script> <script src=\"https://cdn-local.funsales.com.br/loja-integrada/popup-comprando-agora/js/myapp.local.js\" id=\"fs-popup-comprando-agora-li\"></script>"
 }
