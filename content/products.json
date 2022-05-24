@@ -5,6 +5,10 @@
       "enabled": true
     },
     {
+      "type": "custom-content",
+      "markdown": "<script src=\"https://apps.elfsight.com/p/platform.js\" defer></script>\n\n<div class=\"elfsight-app-ae2a52e3-47e8-4e92-bc96-1508ea13f5c4\"></div>"
+    },
+    {
       "type": "product-block",
       "enabled": true,
       "size_guide": {
