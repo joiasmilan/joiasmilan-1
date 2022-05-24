@@ -4,7 +4,10 @@
       "type": "offers-timer",
       "max_hours": 24,
       "start": "2022-05-24T05:10:05.087Z",
-      "end": "2022-05-26T05:10:05.124Z"
+      "end": "2022-05-26T05:10:05.124Z",
+      "offers": [
+        "628c5310df4d8071c920c55b"
+      ]
     },
     {
       "type": "breadcrumbs",
