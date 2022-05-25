@@ -3,7 +3,7 @@
   "sections": [
     {
       "type": "custom-html",
-      "html": "<div class=\"extra-page\" id=\"manutencao-da-loja\" >\n    <section class=\"md-content mb-5 pt-1 pt-sm-2 pt-lg-3\">\n        <div class=\"container\">\n          <section class=\"container\"><img id=\"logo\" class=\"header__logo\" src=\"/img/uploads/logosite.webp\" alt=\"Joias Milan\"></section>  \n          <section class=\"container\"><h1>Voltaremos em breve! 🎉😊</h1></section><br/>\n          <p class=\"footer__social\"><a href=\"https://www.facebook.com/joiasmilan/\" target=\"_blank\" rel=\"noopener\" aria-label=\"facebook\" style=\"color: #3b5998\"><i class=\"i-facebook\"></i> </a><a href=\"https://www.instagram.com/joiasmilan/\" target=\"_blank\" rel=\"noopener\" aria-label=\"instagram\" style=\"color: #e1306c\"><i class=\"i-instagram\"></i></a></p>\n        </div>\n    </section>\n</div>"
+      "html": "<div class=\"extra-page\" id=\"manutencao-da-loja\" >\n    <section class=\"md-content mb-5 pt-1 pt-sm-2 pt-lg-3\">\n        <div class=\"container\">\n          <section class=\"container\"><img id=\"logo\" class=\"header__logo\" src=\"template/public/img/uploads/logosite.png\" alt=\"Joias Milan\"></section>  \n          <section class=\"container\"><h1>Voltaremos em breve! 🎉😊</h1></section><br/>\n          <p class=\"footer__social\"><a href=\"https://www.facebook.com/joiasmilan/\" target=\"_blank\" rel=\"noopener\" aria-label=\"facebook\" style=\"color: #3b5998\"><i class=\"i-facebook\"></i> </a><a href=\"https://www.instagram.com/joiasmilan/\" target=\"_blank\" rel=\"noopener\" aria-label=\"instagram\" style=\"color: #e1306c\"><i class=\"i-instagram\"></i></a></p>\n        </div>\n    </section>\n</div>"
     }
   ],
   "body": "."
