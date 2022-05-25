@@ -24,7 +24,20 @@
     {
       "src": "/img/uploads/ssl-safe.png",
       "alt": "Secure connection"
-    }
+    },
+    {
+      "src": "/img/uploads/selo-compra.svg"
+    },
+    {
+      "src": "/img/uploads/selo-google.svg"
+    },
+    {
+      "src": "/img/uploads/selo-correios.svg"
+    },
+    {
+      "src": "/img/uploads/selo-mercado-livre.svg"
+    },
+    {}
   ],
   "payment_methods": {
     "bb": true,
@@ -40,6 +53,7 @@
     "mastercard": true,
     "citibank": false,
     "mais": false,
+    "amex": true,
     "itau": true
   },
   "credits": ""
