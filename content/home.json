@@ -40,7 +40,8 @@
     },
     {
       "type": "dynamic-showcase",
-      "load_more": true
+      "load_more": false,
+      "sort": "views"
     },
     {
       "type": "custom-content",
