@@ -3,8 +3,8 @@
   "currency_symbol": "R$",
   "primary_color": "#000000",
   "theme": {
-    "bootswatch": "flatly",
-    "custom": "clean-white"
+    "bootswatch": "minty",
+    "custom": "ecom-beauty"
   },
   "bg_color": "#ffffff",
   "repository": "ecomplus-stores/joiasmilan",
