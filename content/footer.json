@@ -33,7 +33,9 @@
     {
       "src": "/img/uploads/selo-mercado-livre.svg"
     },
-    {}
+    {
+      "src": "/img/uploads/opinioes.svg"
+    }
   ],
   "payment_methods": {
     "bb": true,
