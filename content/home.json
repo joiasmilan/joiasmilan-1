@@ -64,7 +64,7 @@
     },
     {
       "type": "custom-content",
-      "markdown": "<style type=\"text/css\">@import url(\"https://groot.mailerlite.com/assets/plugins/groot/modules/includes/groot_fonts/import.css?version=1652784\");</style>\n\n```\n\n```\n\n  <style type=\"text/css\">\n    @media only screen and (max-width: 400px) {\n       .ml-form-formContent.horozintalForm .ml-form-horizontalRow .horizontal-fields {\n        margin-bottom: 10px !important;\n        width: 100% !important;\n      }\n    }\n  </style>\n\n```\n\n```\n\n  <script>\n    function ml_webform_success_546296() {\n      var $ = ml_jQuery || jQuery;\n      $('.ml-subscribe-form-546296 .row-success').show();\n      $('.ml-subscribe-form-546296 .row-form').hide();\n    }\n      </script>\n\n```\n\n```"
+      "markdown": "<div class=\"ml-embedded\" data-form=\"2VV3lb\"></div>"
     }
   ]
 }
