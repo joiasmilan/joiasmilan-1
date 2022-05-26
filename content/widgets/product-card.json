@@ -5,6 +5,6 @@
   "options": {
     "buyText": "ADICIONAR",
     "buy": "",
-    "footer": "@media screen and (max-width: 480px)\n.products-carousel .product-card__buy .btn-primary {\n    font-size: .7rem;\n}\n\n.btn:not(:disabled):not(.disabled) {\n    cursor: pointer;\n}\n@media (max-width: 990px)\n.product-card .product-card__buy>* {\n    justify-content: space-between;\n    width: 100%!important;\n}\n.product-card__buy .btn-primary {\n    line-height: 36px;\n    min-width: unset;\n    padding: 0;\n    width: auto;\n}\n@media (max-width: 990px)\n.product-card__buy .btn-primary {\n    font-size: 10px;\n    height: auto;\n    line-height: normal;\n    min-width: unset;\n    padding: 8px 18px;\n    width: auto;\n}\n.product-card__buy .btn-primary {\n    width: -webkit-fit-content;\n    width: -moz-fit-content;\n    width: fit-content;\n}\n.product-card__buy .btn-primary {\n    background: var(--apx_laranja2);\n    border: none;\n    border-radius: 47px;\n    color: #fff;\n    font-family: Averta;\n    font-size: 14px;\n    font-weight: 700;\n    height: auto;\n    letter-spacing: .15em;\n    line-height: 47px;\n    min-width: 180px;\n    padding: 0 25px;\n    text-transform: uppercase;\n    transition: opacity .2s;\n}\n"
+    "footer": "\n"
   }
 }
