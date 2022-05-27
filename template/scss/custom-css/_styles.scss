@@ -1,6 +1,6 @@
 // Add your custom CSS here.
 @media(max-width: 767px) {
-  body {
-    overflow-x: hidden;
+  body, #main {
+    overflow-x: hidden !important;
   }
 }
