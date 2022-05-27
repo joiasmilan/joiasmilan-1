@@ -4,7 +4,12 @@
     "link": ""
   },
   "contacts_stripe": {
-    "pages": [],
+    "pages": [
+      {
+        "title": "Contato",
+        "link": "www.joiasmilan.com.br/contato"
+      }
+    ],
     "phone_wpp": true,
     "socials": true
   },
