@@ -14,6 +14,13 @@
           "link": "https://www.joiasmilan.com.br/outlet",
           "alt": "Outlet",
           "mobile_img": "https://res.cloudinary.com/joiasmilan/image/upload/v1653672022/ezgif.com-gif-maker_1_aqvdhv.webp"
+        },
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/banner1.jpg",
+          "alt": "Programa de Fidelidade",
+          "mobile_img": "/img/uploads/banner2.jpg"
         }
       ]
     },
