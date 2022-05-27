@@ -3,24 +3,11 @@
   "meta_description": "Joias Milan é o maior site de semijoias do Brasil. Semijoias com qualidade premium. Até 6x s/ juros no cartão. Enviamos para todo Brasil. Frete Grátis",
   "sections": [
     {
-      "type": "banner-slider",
-      "autoplay": 9000,
-      "full_width": false,
-      "slides": [
-        {
-          "img": "https://res.cloudinary.com/joiasmilan/image/upload/v1653671345/ezgif.com-gif-maker_ffl2ji.webp",
-          "link": "/headset",
-          "alt": "Headset banner",
-          "start": "2020-04-11T05:54:06.750Z",
-          "end": "2020-12-31T03:00:00.000Z",
-          "mobile_img": "/img/uploads/headphone.webp"
-        },
-        {
-          "start": "2022-05-27T17:18:38.967Z",
-          "end": "2022-05-27T17:18:39.043Z",
-          "img": "https://res.cloudinary.com/joiasmilan/image/upload/v1653672022/ezgif.com-gif-maker_1_aqvdhv.webp"
-        }
-      ]
+      "type": "responsive-banner",
+      "mobile_img": "https://res.cloudinary.com/joiasmilan/image/upload/v1653672022/ezgif.com-gif-maker_1_aqvdhv.webp",
+      "img": "https://res.cloudinary.com/joiasmilan/image/upload/v1653671345/ezgif.com-gif-maker_ffl2ji.webp",
+      "link": "https://www.joiasmilan.com.br/outlet",
+      "alt": "Outlet"
     },
     {
       "type": "info-bar",
