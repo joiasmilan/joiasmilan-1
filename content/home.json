@@ -60,7 +60,7 @@
     },
     {
       "type": "custom-content",
-      "markdown": "<script src=\"https://apps.elfsight.com/p/platform.js\" defer></script>\n\n<div class=\"elfsight-app-276274f6-c28c-496b-81f9-7c4c76371454\"></div>"
+      "markdown": "<script src=\"https://apps.elfsight.com/p/platform.js\" async defer></script>\n\n<div class=\"elfsight-app-276274f6-c28c-496b-81f9-7c4c76371454\"></div>"
     },
     {
       "type": "custom-content",
