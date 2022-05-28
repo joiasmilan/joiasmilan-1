@@ -41,7 +41,7 @@
       "type": "collection-shelf",
       "shuffle": true,
       "collection_id": "628c2c42df4d8071c9208595:categories:Lançamentos:/lancamentos",
-      "sort": "sales",
+      "sort": "views",
       "title": "Lançamentos",
       "headless": false,
       "limit": 12,
@@ -60,7 +60,10 @@
       "type": "collection-shelf",
       "shuffle": false,
       "limit": 12,
-      "page": 1
+      "page": 1,
+      "collection_id": "628c42bddf4d8071c920b2e4:brands:Joias Milan:/joiasmilan",
+      "sort": "sales",
+      "title": "Mais Vendidos"
     },
     {
       "type": "dynamic-showcase",
@@ -78,6 +81,12 @@
     {
       "type": "custom-content",
       "markdown": "<div class=\"ml-embedded\" data-form=\"2VV3lb\"></div>"
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1
     }
   ]
 }
