@@ -13,6 +13,14 @@
       }
     },
     {
+      "type": "product-description",
+      "enabled": true
+    },
+    {
+      "type": "product-specifications",
+      "enabled": true
+    },
+    {
       "type": "custom-content",
       "markdown": "<script async defer src=\"https://apps.elfsight.com/p/platform.js\" defer></script>\n\n<div class=\"elfsight-app-ae2a52e3-47e8-4e92-bc96-1508ea13f5c4\"></div>"
     },
@@ -23,14 +31,6 @@
     {
       "type": "recommended-products",
       "title": "Quem comprou este produto, também comprou:"
-    },
-    {
-      "type": "product-description",
-      "enabled": true
-    },
-    {
-      "type": "product-specifications",
-      "enabled": true
     }
   ]
 }
