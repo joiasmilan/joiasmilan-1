@@ -5,9 +5,13 @@
   "meta_description": "Programa de Fidelidade da Joias Milan",
   "sections": [
     {
-      "type": "banners-grid",
-      "banners": [
+      "type": "banner-slider",
+      "autoplay": 0,
+      "full_width": true,
+      "slides": [
         {
+          "start": "",
+          "end": "",
           "img": "/img/uploads/banner1.jpg",
           "alt": "Programa de Fidelidade",
           "mobile_img": "/img/uploads/banner2.jpg"
