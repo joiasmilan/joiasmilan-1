@@ -19,6 +19,10 @@
     {
       "type": "document-description",
       "enabled": true
+    },
+    {
+      "type": "custom-content",
+      "markdown": "<div class=\"ml-embedded\" data-form=\"2VV3lb\"></div>"
     }
   ]
 }
