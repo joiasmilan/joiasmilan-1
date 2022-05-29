@@ -1,18 +1,24 @@
 {
   "shipping": {
     "show": true,
-    "text": "Entregamos para todo o Brasil"
+    "text": "Acima de R$189",
+    "title": "Frete Grátis"
   },
   "installments": {
     "show": true,
-    "text": "Parcele sem juros"
+    "text": "6x sem juros",
+    "title": "Parcele em 12x"
   },
   "exchange": {
     "show": true,
-    "text": "Não gostou? A primeira troca é gratuita"
+    "text": "Em até 30 dias",
+    "title": "1ª Troca Grátis",
+    "link": "https://www.joiasmilan.com.br/pages/trocas"
   },
   "promo": {
     "show": true,
-    "text": "Diferentes promoções ao longo do ano!"
+    "text": "Compre e ganhe pontos",
+    "title": "Cashback",
+    "link": "https://www.joiasmilan.com.br/pages/programa-de-fidelidade"
   }
 }
