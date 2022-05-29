@@ -66,6 +66,15 @@
       "title": "Mais Vendidos"
     },
     {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "sort": "views",
+      "collection_id": "628c42bddf4d8071c920b2e4:brands:Joias Milan:/joiasmilan",
+      "title": "O que outros clientes estão vendo"
+    },
+    {
       "type": "dynamic-showcase",
       "load_more": false,
       "sort": "views"
@@ -81,12 +90,6 @@
     {
       "type": "custom-content",
       "markdown": "<div class=\"ml-embedded\" data-form=\"2VV3lb\"></div>"
-    },
-    {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "limit": 12,
-      "page": 1
     }
   ]
 }
