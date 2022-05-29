@@ -17,8 +17,10 @@
     "featured": [
       "/lancamentos?Lançamentos",
       "/brincos?Brincos",
+      "/pulseiras?Pulseiras",
       "/tornozeleiras?Tornozeleiras",
-      "/outlet?Outlet"
+      "/outlet?Outlet",
+      "/colares?Colares"
     ],
     "random": 6,
     "full_width": true
