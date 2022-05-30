@@ -14,7 +14,7 @@
     },
     {
       "type": "custom-content",
-      "markdown": "<script async defer src=\"https://apps.elfsight.com/p/platform.js\" defer></script>\n\n<div class=\"elfsight-app-ae2a52e3-47e8-4e92-bc96-1508ea13f5c4\"></div>"
+      "markdown": "<script src=\"https://apps.elfsight.com/p/platform.js\" defer></script>\n\n<div class=\"elfsight-app-ae2a52e3-47e8-4e92-bc96-1508ea13f5c4\"></div>"
     },
     {
       "type": "product-description",
@@ -23,6 +23,10 @@
     {
       "type": "product-specifications",
       "enabled": true
+    },
+    {
+      "type": "custom-content",
+      "markdown": "<script src=\"https://apps.elfsight.com/p/platform.js\" defer></script>\n\n<div class=\"elfsight-app-a157acc4-ff88-4d62-b9b5-d459ce6919dc\"></div>"
     },
     {
       "type": "related-products",
