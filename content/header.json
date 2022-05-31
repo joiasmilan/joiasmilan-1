@@ -2,8 +2,8 @@
   "marketing_stripe": {
     "text": "CASHBACK DE 15% PARA O PRÓXIMO PEDIDO",
     "link": "https://www.joiasmilan.com.br/pages/programa-de-fidelidade",
-    "background": "#f1f1f1",
-    "color": "#3d3935"
+    "background": "#3d3935",
+    "color": "#ffffff"
   },
   "contacts_stripe": {
     "pages": [
