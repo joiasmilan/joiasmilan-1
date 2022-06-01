@@ -85,6 +85,10 @@
     {
       "type": "custom-content",
       "markdown": "<div class=\"ml-embedded\" data-form=\"2VV3lb\"></div>"
+    },
+    {
+      "type": "custom-content",
+      "markdown": "<!-- Start whatsapp -->\n\n<script src=\"https://apps.elfsight.com/p/platform.js\" async defer></script>\n\n<div class=\"elfsight-app-57cfc347-c302-4a19-9805-da8599cce1f7\"></div>\n<!-- Start whatsapp -->"
     }
   ]
 }
