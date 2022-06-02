@@ -5,10 +5,16 @@
   }
   .header {
     position: fixed;
+    top: 29px
   }
   .banner-slider {
     margin-top: 56px;
   }
+  .top-bar {
+    position: fixed;
+    top: 0;
+    z-index: 900;
+    }
 }
 #cashback {
   padding: 15px;
