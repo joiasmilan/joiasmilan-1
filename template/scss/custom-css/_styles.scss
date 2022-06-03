@@ -44,13 +44,12 @@
   .text {
     color: #4D4D4D;
     font-size: 14px;
-    font-weight: 700;
   }
 
   button {
     &:hover {
-      color:#fff;
-      background:#FF8600;
+      background: #3d3935;
+      color: #ffffff;
     }
     color: #fff;
     font-weight: 700;
@@ -71,3 +70,18 @@
     align-items:center;
   }
 }
+
+@media (max-width: 991.98px) {
+  .cookieconsent .product-buy-button {
+    margin-top: 15px;
+    width: 100%;
+    }
+    
+    .cookieconsent button {
+    background: #fff;
+    border: 1px solid #3d3935;
+    color: #3d3935;
+    }
+}
+
+
