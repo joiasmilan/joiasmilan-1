@@ -33,10 +33,6 @@
       "title": "Quem comprou este produto, também comprou:"
     },
     {
-      "type": "custom-content",
-      "markdown": "<div class=\"ml-embedded\" data-form=\"2VV3lb\"></div>"
-    },
-    {
       "type": "banners-grid",
       "banners": [
         {
@@ -45,6 +41,10 @@
           "mobile_img": "/img/uploads/c2.webp"
         }
       ]
+    },
+    {
+      "type": "custom-content",
+      "markdown": "<div class=\"ml-embedded\" data-form=\"2VV3lb\"></div>"
     }
   ]
 }
