@@ -25,19 +25,19 @@
       "enabled": true
     },
     {
-      "type": "recommended-products",
-      "title": "Quem comprou este produto, também comprou:"
-    },
-    {
       "type": "related-products",
       "title": "Você também pode gostar"
+    },
+    {
+      "type": "recommended-products",
+      "title": "Quem comprou este produto, também comprou:"
     },
     {
       "type": "banners-grid",
       "banners": [
         {
           "img": "/img/uploads/c1.webp",
-          "alt": "Programa de pontos ",
+          "alt": "Programa de pontos",
           "mobile_img": "/img/uploads/c2.webp"
         }
       ]
