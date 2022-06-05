@@ -70,17 +70,16 @@
     align-items:center;
   }
 }
+.cookieconsent button {
+    background: #fff;
+    border: 1px solid #3d3935;
+    color: #3d3935;
+}
 
 @media (max-width: 991.98px) {
   .cookieconsent .product-buy-button {
     margin-top: 15px;
     width: 100%;
-    }
-    
-    .cookieconsent button {
-    background: #fff;
-    border: 1px solid #3d3935;
-    color: #3d3935;
     }
 }
 
