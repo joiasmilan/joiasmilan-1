@@ -29,10 +29,6 @@
       "title": "Você também pode gostar"
     },
     {
-      "type": "recommended-products",
-      "title": "Quem comprou este produto, também comprou:"
-    },
-    {
       "type": "banners-grid",
       "banners": [
         {
@@ -41,6 +37,10 @@
           "mobile_img": "/img/uploads/c2.webp"
         }
       ]
+    },
+    {
+      "type": "recommended-products",
+      "title": "Quem comprou este produto, também comprou:"
     },
     {
       "type": "custom-content",
