@@ -35,6 +35,16 @@
     {
       "type": "custom-content",
       "markdown": "<div class=\"ml-embedded\" data-form=\"2VV3lb\"></div>"
+    },
+    {
+      "type": "banners-grid",
+      "banners": [
+        {
+          "img": "/img/uploads/c1.webp",
+          "alt": "Programa de pontos ",
+          "mobile_img": "/img/uploads/c2.webp"
+        }
+      ]
     }
   ]
 }
