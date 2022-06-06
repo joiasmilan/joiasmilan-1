@@ -22,10 +22,13 @@
   },
   "stamps": [
     {
-      "src": "/img/uploads/selo-compra.svg"
+      "src": "/img/uploads/selo-compra.svg",
+      "alt": "Compra segura"
     },
     {
-      "src": "/img/uploads/selo-google.svg"
+      "src": "/img/uploads/selo-google.svg",
+      "link": "https://transparencyreport.google.com/safe-browsing/search?url=www.joiasmilan.com.br",
+      "alt": "Google safe browsing"
     },
     {
       "src": "/img/uploads/selo-correios.svg"
