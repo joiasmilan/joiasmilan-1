@@ -34,10 +34,11 @@
       "src": "/img/uploads/selo-correios.svg"
     },
     {
-      "src": "/img/uploads/4.9.svg"
+      "src": "/img/uploads/4.9.svg",
+      "alt": "Avaliações"
     },
     {
-      "src": "/img/uploads/footer.png"
+      "src": ""
     }
   ],
   "payment_methods": {
