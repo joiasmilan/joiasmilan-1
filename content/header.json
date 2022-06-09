@@ -1,9 +1,9 @@
 {
   "marketing_stripe": {
-    "text": "CASHBACK: compre e ganhe 15% do dinheiro de volta",
+    "text": "CASHBACK: compre e ganhe 15% do dinheiro de volta ",
     "link": "https://www.joiasmilan.com.br/pages/programa-de-fidelidade",
-    "background": "#000000",
-    "color": "#ffffff"
+    "background": "#f2a1b2",
+    "color": "#000000"
   },
   "contacts_stripe": {
     "pages": [
