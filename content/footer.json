@@ -46,7 +46,11 @@
       "alt": "Reclame Aqui",
       "link": "https://www.reclameaqui.com.br/empresa/joias-milan/?utm_source=referral&utm_medium=embbed&utm_campaign=reputacao&utm_term=horizontal"
     },
-    {}
+    {
+      "src": "/img/uploads/polen.svg",
+      "alt": "Polen",
+      "link": "https://polen.com.br/impacto/joiasmilan"
+    }
   ],
   "payment_methods": {
     "bb": false,
