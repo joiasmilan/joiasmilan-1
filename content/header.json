@@ -1,7 +1,7 @@
 {
   "marketing_stripe": {
     "text": "COMPRE E RECEBA 15% DE CASHBACK",
-    "link": "https://www.joiasmilan.com.br/pages/programa-de-fidelidade",
+    "link": "https://www.joiasmilan.com.br/pages/programa-de-fidelidade ",
     "background": "#373435",
     "color": "#ffffff"
   },
@@ -25,7 +25,7 @@
       "/combos?Combos",
       "/outlet?Outlet"
     ],
-    "random": 5,
+    "random": 6,
     "full_width": true
   },
   "desktop_megamenu": true,
