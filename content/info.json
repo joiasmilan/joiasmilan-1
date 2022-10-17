@@ -1,24 +1,24 @@
 {
   "shipping": {
     "show": true,
-    "text": "Acima de R$189",
-    "title": "Frete Grátis"
+    "text": "Compras acima de R$ 100",
+    "title": "FRETE GRÁTIS"
   },
   "installments": {
     "show": true,
-    "text": "6x sem juros",
-    "title": "Parcele em 12x"
+    "text": "Em até 6x no cartão",
+    "title": "PARCELE SEM JUROS"
   },
   "exchange": {
     "show": true,
-    "text": "Em até 30 dias",
-    "title": "1ª Troca Grátis",
-    "link": "https://www.joiasmilan.com.br/pages/trocas"
+    "text": "Compre, ganhe e resgate!",
+    "title": "CASHBACK",
+    "link": "https://www.joiasmilan.com.br/pages/programa-de-fidelidade"
   },
   "promo": {
     "show": true,
-    "text": "Dinheiro de volta",
-    "title": "15% de Cashback",
-    "link": "https://www.joiasmilan.com.br/pages/programa-de-fidelidade"
+    "text": "5% de desconto",
+    "title": "PAGUE COM PIX",
+    "link": ""
   }
 }
