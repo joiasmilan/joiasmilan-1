@@ -1,7 +1,7 @@
 {
   "domain": "https://www.joiasmilan.netlify.app/",
   "currency_symbol": "R$",
-  "primary_color": "#ffffff",
+  "primary_color": "#373435",
   "theme": {
     "bootswatch": "_",
     "custom": "ecom-beauty"
