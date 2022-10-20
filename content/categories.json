@@ -8,11 +8,11 @@
       "type": "page-title"
     },
     {
-      "type": "document-description",
+      "type": "document-banner",
       "enabled": true
     },
     {
-      "type": "document-banner",
+      "type": "document-description",
       "enabled": true
     },
     {
