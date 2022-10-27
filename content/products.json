@@ -32,9 +32,9 @@
       "type": "banners-grid",
       "banners": [
         {
-          "img": "/img/uploads/c1.webp",
+          "img": "/img/uploads/d1.webp",
           "alt": "Programa de pontos",
-          "mobile_img": "/img/uploads/c2.webp"
+          "mobile_img": "/img/uploads/d2.webp"
         }
       ]
     },
