@@ -48,17 +48,6 @@
       "page": 1
     },
     {
-      "type": "banners-grid",
-      "banners": [
-        {
-          "img": "/img/uploads/d1.webp",
-          "link": "https://www.joiasmilan.com.br/pages/programa-de-fidelidade",
-          "alt": "Programa de Fidelidade",
-          "mobile_img": "/img/uploads/d2.webp"
-        }
-      ]
-    },
-    {
       "type": "offers-timer",
       "max_hours": 24,
       "start": "2022-10-27T14:53:09.435Z",
@@ -68,6 +57,17 @@
         "628c5310df4d8071c920c55b"
       ],
       "notes": "Oferta Relâmpago"
+    },
+    {
+      "type": "banners-grid",
+      "banners": [
+        {
+          "img": "/img/uploads/d1.webp",
+          "link": "https://www.joiasmilan.com.br/pages/programa-de-fidelidade",
+          "alt": "Programa de Fidelidade",
+          "mobile_img": "/img/uploads/d2.webp"
+        }
+      ]
     },
     {
       "type": "collection-shelf",
