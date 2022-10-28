@@ -111,6 +111,10 @@
     {
       "type": "custom-content",
       "markdown": "<div class=\"ml-embedded\" data-form=\"2VV3lb\"></div>"
+    },
+    {
+      "type": "custom-html",
+      "html": "<script src=\"https://apps.elfsight.com/p/platform.js\" defer></script>\n<div class=\"elfsight-app-0b166085-61ba-4bf1-b0ee-87bbe2c7ee4f\"></div>"
     }
   ]
 }
