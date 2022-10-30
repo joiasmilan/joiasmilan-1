@@ -40,11 +40,11 @@
     {
       "type": "offers-timer",
       "max_hours": 24,
-      "start": "2022-10-29T02:36:41.320Z",
-      "end": "2022-10-30T02:59:16.611Z",
+      "start": "",
+      "end": "2022-10-31T12:00:16.611Z",
       "offers": [
-        "628c7c78df4d8071c920effb",
-        "628c7c6edf4d8071c920efdc"
+        "628c7d0edf4d8071c920f161",
+        "628c7c69df4d8071c920efcf"
       ],
       "notes": "Oferta Relâmpago "
     },
