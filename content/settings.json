@@ -4,7 +4,7 @@
   "primary_color": "#373435",
   "theme": {
     "bootswatch": "_",
-    "custom": "_"
+    "custom": "ecom-beauty"
   },
   "bg_color": "#ffffff",
   "repository": "ecomplus-stores/joiasmilan",
