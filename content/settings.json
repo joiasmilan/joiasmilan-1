@@ -4,12 +4,12 @@
   "primary_color": "#373435",
   "theme": {
     "bootswatch": "_",
-    "custom": "ecom-beauty"
+    "custom": "_"
   },
   "bg_color": "#ffffff",
   "repository": "ecomplus-stores/joiasmilan",
   "logo": "/img/uploads/milan_logo-preto-e-transparente.webp",
-  "name": "Joias Milan",
+  "name": "Joias Milan ",
   "short_name": "Joias Milan",
   "lang": "pt_br",
   "currency": "BRL",
