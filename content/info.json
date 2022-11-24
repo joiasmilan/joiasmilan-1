@@ -12,12 +12,12 @@
   "exchange": {
     "show": true,
     "text": "Compre e ganhe",
-    "title": "Cashback",
+    "title": "Cashback    ",
     "link": "https://www.joiasmilan.com.br/pages/programa-de-fidelidade"
   },
   "promo": {
     "show": true,
-    "text": "5% de Desconto",
+    "text": "5% de Desconto  ",
     "title": "Pagamento via PIX",
     "link": ""
   }
