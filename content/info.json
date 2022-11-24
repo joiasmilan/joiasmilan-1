@@ -1,7 +1,7 @@
 {
   "shipping": {
     "show": true,
-    "text": "Compras acima de R$100",
+    "text": "Acima de R$100",
     "title": "Frete Grátis"
   },
   "installments": {
@@ -11,7 +11,7 @@
   },
   "exchange": {
     "show": true,
-    "text": "Compre, ganhe e resgate",
+    "text": "Compre e ganhe",
     "title": "Cashback",
     "link": "https://www.joiasmilan.com.br/pages/programa-de-fidelidade"
   },
