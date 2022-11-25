@@ -2,23 +2,23 @@
   "shipping": {
     "show": true,
     "text": "Acima de R$100",
-    "title": "Frete Grátis"
+    "title": "FRETE GRÁTIS"
   },
   "installments": {
     "show": true,
     "text": "Até 6x no cartão",
-    "title": "Parcele Sem Juros"
+    "title": "PARCELE SEM JUROS"
   },
   "exchange": {
     "show": true,
     "text": "Compre e ganhe",
-    "title": "Cashback    ",
+    "title": "CASHBACK   ",
     "link": "https://www.joiasmilan.com.br/pages/programa-de-fidelidade"
   },
   "promo": {
     "show": true,
     "text": "5% de Desconto  ",
-    "title": "Pagamento via PIX",
+    "title": "PAGAMENTO VIA PIX",
     "link": ""
   }
 }
