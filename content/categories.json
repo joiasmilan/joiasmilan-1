@@ -10,12 +10,6 @@
           "alt": "Lancamentos"
         },
         {
-          "img": "/img/uploads/2.webp",
-          "mobile_img": "/img/uploads/2.webp",
-          "link": "https://www.joiasmilan.com.br/outlet",
-          "alt": "Outlet"
-        },
-        {
           "img": "/img/uploads/3.webp",
           "mobile_img": "/img/uploads/3.webp",
           "link": "https://www.joiasmilan.com.br/brincos",
@@ -49,6 +43,12 @@
           "img": "/img/uploads/8.webp",
           "mobile_img": "/img/uploads/8.webp",
           "alt": "Religiosos"
+        },
+        {
+          "img": "/img/uploads/2.webp",
+          "mobile_img": "/img/uploads/2.webp",
+          "link": "https://www.joiasmilan.com.br/outlet",
+          "alt": "Outlet"
         }
       ]
     },
