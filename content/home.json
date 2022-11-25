@@ -64,22 +64,26 @@
         {
           "img": "/img/uploads/1.webp",
           "link": "https://www.joiasmilan.com.br/lancamentos",
-          "alt": "lançamentos"
+          "alt": "lançamentos",
+          "mobile_img": "/img/uploads/1.webp"
         },
         {
           "img": "/img/uploads/2.webp",
           "link": "https://www.joiasmilan.com.br/outlet",
-          "alt": "Outlet"
+          "alt": "Outlet",
+          "mobile_img": "/img/uploads/2.webp"
         },
         {
           "img": "/img/uploads/3.webp",
           "link": "https://www.joiasmilan.com.br/brincos",
-          "alt": "Brincos"
+          "alt": "Brincos",
+          "mobile_img": "/img/uploads/3.webp"
         },
         {
           "img": "/img/uploads/4.webp",
           "alt": "Colares",
-          "link": "https://www.joiasmilan.com.br/colares"
+          "link": "https://www.joiasmilan.com.br/colares",
+          "mobile_img": "/img/uploads/4.webp"
         },
         {
           "img": "/img/uploads/5.webp",
@@ -89,16 +93,19 @@
         {
           "img": "/img/uploads/6.webp",
           "link": "https://www.joiasmilan.com.br/tornozeleiras",
-          "alt": "Tornozeleiras"
+          "alt": "Tornozeleiras",
+          "mobile_img": "/img/uploads/6.webp"
         },
         {
           "img": "/img/uploads/7.webp",
           "link": "https://www.joiasmilan.com.br/combos",
-          "alt": "Combos"
+          "alt": "Combos",
+          "mobile_img": "/img/uploads/7.webp"
         },
         {
           "img": "/img/uploads/8.webp",
-          "alt": "Religiosos"
+          "alt": "Religiosos",
+          "mobile_img": "/img/uploads/8.webp"
         }
       ]
     },
