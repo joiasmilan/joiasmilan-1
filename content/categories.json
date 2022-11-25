@@ -1,6 +1,58 @@
 {
   "sections": [
     {
+      "type": "banners-grid",
+      "banners": [
+        {
+          "img": "/img/uploads/1.webp",
+          "mobile_img": "/img/uploads/1.webp",
+          "link": "https://www.joiasmilan.com.br/lancamentos",
+          "alt": "Lancamentos"
+        },
+        {
+          "img": "/img/uploads/2.webp",
+          "mobile_img": "/img/uploads/2.webp",
+          "link": "https://www.joiasmilan.com.br/outlet",
+          "alt": "Outlet"
+        },
+        {
+          "img": "/img/uploads/3.webp",
+          "mobile_img": "/img/uploads/3.webp",
+          "link": "https://www.joiasmilan.com.br/brincos",
+          "alt": "Brincos"
+        },
+        {
+          "img": "/img/uploads/4.webp",
+          "mobile_img": "/img/uploads/4.webp",
+          "link": "https://www.joiasmilan.com.br/colares",
+          "alt": "Colares"
+        },
+        {
+          "img": "/img/uploads/5.webp",
+          "mobile_img": "/img/uploads/5.webp",
+          "link": "https://www.joiasmilan.com.br/pulseiras",
+          "alt": "Pulseiras"
+        },
+        {
+          "img": "/img/uploads/6.webp",
+          "mobile_img": "/img/uploads/6.webp",
+          "link": "https://www.joiasmilan.com.br/tornozeleiras",
+          "alt": "Tornozeleiras"
+        },
+        {
+          "img": "/img/uploads/7.webp",
+          "mobile_img": "/img/uploads/7.webp",
+          "link": "https://www.joiasmilan.com.br/combos",
+          "alt": "Combos"
+        },
+        {
+          "img": "/img/uploads/8.webp",
+          "mobile_img": "/img/uploads/8.webp",
+          "alt": "Religiosos"
+        }
+      ]
+    },
+    {
       "type": "breadcrumbs",
       "enabled": true
     },
