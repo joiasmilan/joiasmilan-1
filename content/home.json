@@ -62,10 +62,43 @@
       "type": "banners-grid",
       "banners": [
         {
-          "img": "/img/uploads/d1.webp",
-          "link": "https://www.joiasmilan.com.br/pages/programa-de-fidelidade",
-          "alt": "Programa de Fidelidade",
-          "mobile_img": "/img/uploads/d2.webp"
+          "img": "/img/uploads/1.webp",
+          "link": "https://www.joiasmilan.com.br/lancamentos",
+          "alt": "lançamentos"
+        },
+        {
+          "img": "/img/uploads/2.webp",
+          "link": "https://www.joiasmilan.com.br/outlet",
+          "alt": "Outlet"
+        },
+        {
+          "img": "/img/uploads/3.webp",
+          "link": "https://www.joiasmilan.com.br/brincos",
+          "alt": "Brincos"
+        },
+        {
+          "img": "/img/uploads/4.webp",
+          "alt": "Colares",
+          "link": "https://www.joiasmilan.com.br/colares"
+        },
+        {
+          "img": "/img/uploads/5.webp",
+          "alt": "Pulseiras",
+          "link": "https://www.joiasmilan.com.br/pulseiras"
+        },
+        {
+          "img": "/img/uploads/6.webp",
+          "link": "https://www.joiasmilan.com.br/tornozeleiras",
+          "alt": "Tornozeleiras"
+        },
+        {
+          "img": "/img/uploads/7.webp",
+          "link": "https://www.joiasmilan.com.br/combos",
+          "alt": "Combos"
+        },
+        {
+          "img": "/img/uploads/8.webp",
+          "alt": "Religiosos"
         }
       ]
     },
@@ -86,6 +119,17 @@
       "collection_id": "628c42bddf4d8071c920b2e4:brands:Joias Milan:/joiasmilan",
       "sort": "sales",
       "title": "Mais Vendidos"
+    },
+    {
+      "type": "banners-grid",
+      "banners": [
+        {
+          "img": "/img/uploads/d1.webp",
+          "link": "https://www.joiasmilan.com.br/pages/programa-de-fidelidade",
+          "alt": "Programa de Fidelidade",
+          "mobile_img": "/img/uploads/d2.webp"
+        }
+      ]
     },
     {
       "type": "collection-shelf",
