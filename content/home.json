@@ -59,6 +59,10 @@
       "page": 1
     },
     {
+      "type": "custom-html",
+      "html": "<div class=\"page-title container mt-4 mb-4 mb-lg-5\"><div class=\"page-title__head\"><h1 class=\"my-0\">Principais Categorias</h1></div><div class=\"page-title__short-description lead\">para um brilho perfeito</div></div>"
+    },
+    {
       "type": "banners-grid",
       "banners": [
         {
