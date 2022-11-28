@@ -119,7 +119,7 @@
       "limit": 12,
       "page": 1,
       "collection_id": "628c3ffddf4d8071c920ae35:categories:Outlet:/outlet",
-      "sort": "sales",
+      "sort": null,
       "title": "Ofertas"
     },
     {
