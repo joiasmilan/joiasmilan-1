@@ -1,10 +1,6 @@
 {
   "sections": [
     {
-      "type": "breadcrumbs",
-      "enabled": true
-    },
-    {
       "type": "page-title"
     },
     {
@@ -23,6 +19,10 @@
     {
       "type": "custom-content",
       "markdown": "<div class=\"ml-embedded\" data-form=\"2VV3lb\"></div>"
+    },
+    {
+      "type": "custom-html",
+      "html": "<div class=\"extra-page\"><section class=\"md-content mb-5 pt-1 pt-sm-2 pt-lg-3\"><div class=\"container\"><p><a id=\"cliente\"></a> Oferta Imperdível para você!</p><ul><li>Ganhe <strong>FRETE GRÁTIS</strong> em compras a partir de R$ 100!</li><li>Joias com até <strong>60% de desconto! <a href=\"https://www.joiasmilan.com.br/outlet\">Clique aqui.</a></strong></li><li><strong>CASHBACK</strong> no <a href=\"https://www.joiasmilan.com.br/pages/programa-de-fidelidade\">programa de Fidelidade</a>!</li></ul><p>Em todos pedidos você <a href=\"https://www.joiasmilan.com.br/pages/programa-de-fidelidade\">ganha pontos (saiba mais)</a> que podem ser usados em sua próxima compra (<strong>cashback</strong>).</p></div></section></div>"
     },
     {
       "type": "custom-html",
