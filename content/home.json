@@ -169,10 +169,6 @@
       "html": "<script src=\"https://apps.elfsight.com/p/platform.js\" defer></script>\n<div class=\"elfsight-app-0b166085-61ba-4bf1-b0ee-87bbe2c7ee4f\"></div>"
     },
     {
-      "type": "custom-html",
-      "html": "<!-- LightWidget WIDGET --><script src=\"https://cdn.lightwidget.com/widgets/lightwidget.js\" async defer></script><iframe src=\"https://cdn.lightwidget.com/widgets/96a621552ae555459c6dded525ab4b1a.html\" scrolling=\"no\" allowtransparency=\"true\" class=\"lightwidget-widget\" style=\"width:100%;border:0;overflow:hidden;\"></iframe>"
-    },
-    {
       "type": "custom-content",
       "markdown": "<div class=\"ml-embedded\" data-form=\"2VV3lb\"></div>"
     }
