@@ -1,6 +1,17 @@
 {
   "sections": [
     {
+      "type": "banners-grid",
+      "banners": [
+        {
+          "img": "/img/uploads/1.webp",
+          "link": "https://www.joiasmilan.com.br/lancamentos",
+          "alt": "Lançamentos",
+          "mobile_img": "/img/uploads/1.webp"
+        }
+      ]
+    },
+    {
       "type": "page-title"
     },
     {
