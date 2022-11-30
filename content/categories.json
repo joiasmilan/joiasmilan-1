@@ -53,10 +53,6 @@
       ]
     },
     {
-      "type": "breadcrumbs",
-      "enabled": true
-    },
-    {
       "type": "page-title"
     },
     {
