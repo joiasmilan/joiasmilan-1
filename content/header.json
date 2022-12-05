@@ -6,7 +6,12 @@
     "color": ""
   },
   "contacts_stripe": {
-    "pages": [],
+    "pages": [
+      {
+        "title": " SEJA UMA REVENDEDORA",
+        "link": "https://www.joiasmilan.com.br/"
+      }
+    ],
     "phone_wpp": true,
     "socials": true
   },
