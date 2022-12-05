@@ -2,8 +2,8 @@
   "marketing_stripe": {
     "text": "CASHBACK + 5% de desconto via PIX",
     "link": "https://www.joiasmilan.com.br/pages/programa-de-fidelidade",
-    "background": "#373435",
-    "color": "#ffffff"
+    "background": "",
+    "color": ""
   },
   "contacts_stripe": {
     "pages": [],
@@ -24,5 +24,7 @@
     "full_width": true
   },
   "desktop_megamenu": true,
-  "search_input": true
+  "search_input": true,
+  "alphabetical_order_submenu": true,
+  "full_width_submenu": true
 }
