@@ -5,59 +5,6 @@
       "html": "<div class=\"story-conteiner\">\n        <ul>\n            <!-- <li class=\"has-story\">\n                <div class=\"story\">\n                    <a href=\"https://chat.whatsapp.com/EznQjVMdl0P9dRx2tPruVW\" target=”_blank”><img src=\"https://cdn.awsli.com.br/1948/1948212/arquivos/WhatsApp-icone-3.png\"></a>\n                    </div>\n                <span class=\"user\">Grupo Vip Whats</span>\n                 </li>-->   \n            <li class=\"has-story\">\n                <div class=\"story\">\n                    <a href=\"https://www.joiasmilan.com.br/outlet\"><img src=\"https://cdn.awsli.com.br/1948/1948212/arquivos/storie-hexa.png\"></a>\n                </div>\n                <span class=\"user\">Lançamentos</span>\n            </li>       \n            <li class=\"has-story\">\n                <div class=\"story\">\n                    <a href=\"https://www.joiasmilan.com.br/brincos\"><img src=\"https://cdn.awsli.com.br/1948/1948212/arquivos/story_brincos.png\"></a>\n                </div>\n                <span class=\"user\">Brincos</span>\n            </li>\n            <li class=\"has-story\">\n                <div class=\"story\">\n                    <a href=\"https://www.joiasmilan.com.br/colares\"><img src=\"https://cdn.awsli.com.br/1948/1948212/arquivos/story_colares.png\"></a>\n                </div>\n                <span class=\"user\">Colares</span>\n            </li>\n            <li class=\"has-story\">\n                <div class=\"story\">\n                    <a href=\"https://www.joiasmilan.com.br/pulseiras\"><img src=\"https://cdn.awsli.com.br/1948/1948212/arquivos/story_pulseiras.png\"></a>\n                </div>\n                <span class=\"user\">Pulseiras</span>\n            </li>\n            <li class=\"has-story\">\n                <div class=\"story\">\n                    <a href=\"\"><img src=\"https://cdn.awsli.com.br/1948/1948212/arquivos/story_aneis.png\"></a>\n                </div>\n                <span class=\"user\">Tornozeleiras</span>\n            </li>\n            <li class=\"has-story\">\n                <div class=\"story\">\n                    <a href=\"https://www.joiasmilan.com.br/gargantilhas-e-chokers\"><img src=\"https://cdn.awsli.com.br/1948/1948212/arquivos/story_chokers1.png\"></a>\n                </div>\n                <span class=\"user\">Chockers</span>\n            </li>\n            <li class=\"has-story\">\n                <div class=\"story\">\n                    <a href=\"\"><img src=\"https://cdn.awsli.com.br/1948/1948212/arquivos/story_braceletes.png\"></a>\n                </div>\n                <span class=\"user\">Outlet</span>\n            </li>          \n            <li class=\"has-story\">\n                <div class=\"story\">\n                    <a href=\"https://wa.me/5519996681211?text=Ol%C3%A1,%20gostaria%20de%20tirar%20uma%20d%C3%BAvida.%20Poderiam%20me%20ajudar?\" target=\"”_blank”\"><img src=\"https://cdn.awsli.com.br/1948/1948212/arquivos/WhatsApp-icone-3.png\"></a>\n                </div>\n                <span class=\"user\">Whats</span>\n            </li>            \n          \n        </ul>\n    </div>"
     },
     {
-      "type": "banners-grid",
-      "banners": [
-        {
-          "img": "/img/uploads/1.webp",
-          "link": "https://www.joiasmilan.com.br/lancamentos",
-          "alt": "Lançamentos",
-          "mobile_img": "/img/uploads/1.webp"
-        },
-        {
-          "link": "https://www.joiasmilan.com.br/brincos",
-          "img": "/img/uploads/3.webp",
-          "mobile_img": "/img/uploads/3.webp",
-          "alt": "Brincos"
-        },
-        {
-          "img": "/img/uploads/4.webp",
-          "link": "https://www.joiasmilan.com.br/colares",
-          "alt": "Colares",
-          "mobile_img": "/img/uploads/4.webp"
-        },
-        {
-          "img": "/img/uploads/5.webp",
-          "link": "https://www.joiasmilan.com.br/pulseiras",
-          "alt": "Pulseiras",
-          "mobile_img": "/img/uploads/5.webp"
-        },
-        {
-          "img": "/img/uploads/6.webp",
-          "link": "https://www.joiasmilan.com.br/tornozeleiras",
-          "alt": "Tornozeleiras",
-          "mobile_img": "/img/uploads/6.webp"
-        },
-        {
-          "img": "/img/uploads/7.webp",
-          "link": "https://www.joiasmilan.com.br/combos",
-          "alt": "Combos",
-          "mobile_img": "/img/uploads/7.webp"
-        },
-        {
-          "link": "https://www.joiasmilan.com.br/religiosos",
-          "img": "/img/uploads/8.webp",
-          "alt": "Religiosos",
-          "mobile_img": "/img/uploads/8.webp"
-        },
-        {
-          "img": "/img/uploads/2.webp",
-          "link": "https://www.joiasmilan.com.br/outlet",
-          "alt": "Outlet",
-          "mobile_img": "/img/uploads/2.webp"
-        }
-      ]
-    },
-    {
       "type": "page-title"
     },
     {
