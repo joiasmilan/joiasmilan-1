@@ -1,6 +1,20 @@
 {
   "sections": [
     {
+      "type": "banner-slider",
+      "autoplay": 9000,
+      "full_width": false,
+      "slides": [
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/banner-revendedora-desktop.webp",
+          "alt": "Seja uma revendedora",
+          "mobile_img": "/img/uploads/banner-revendedora-celular.webp"
+        }
+      ]
+    },
+    {
       "type": "extra-page",
       "enabled": true
     }
