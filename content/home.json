@@ -40,23 +40,13 @@
     {
       "type": "offers-timer",
       "max_hours": 24,
-      "start": "2022-12-06T03:53:26.044Z",
-      "end": "2022-12-07T02:59:28.788Z",
+      "start": "2022-12-07T13:32:22.495Z",
+      "end": "2022-12-08T02:59:24.403Z",
       "offers": [
         "628c7cfedf4d8071c920f127",
         "628c7c93df4d8071c920f056"
       ],
       "notes": "Oferta Relâmpago"
-    },
-    {
-      "type": "collection-shelf",
-      "shuffle": true,
-      "collection_id": "628c2c42df4d8071c9208595:categories:Lançamentos:/lancamentos",
-      "sort": null,
-      "title": "Lançamentos",
-      "headless": false,
-      "limit": 12,
-      "page": 1
     },
     {
       "type": "custom-html",
@@ -117,11 +107,12 @@
     {
       "type": "collection-shelf",
       "shuffle": true,
-      "limit": 12,
-      "page": 1,
-      "collection_id": "628c3ffddf4d8071c920ae35:categories:Outlet:/outlet",
+      "collection_id": "628c2c42df4d8071c9208595:categories:Lançamentos:/lancamentos",
       "sort": null,
-      "title": "Ofertas"
+      "title": "Lançamentos",
+      "headless": false,
+      "limit": 12,
+      "page": 1
     },
     {
       "type": "collection-shelf",
@@ -142,6 +133,15 @@
           "mobile_img": "/img/uploads/d2.webp"
         }
       ]
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": true,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "628c3ffddf4d8071c920ae35:categories:Outlet:/outlet",
+      "sort": null,
+      "title": "Ofertas"
     },
     {
       "type": "collection-shelf",
