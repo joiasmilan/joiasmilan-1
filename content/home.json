@@ -3,6 +3,10 @@
   "meta_description": "Joias Milan é o maior site de semijoias do Brasil.   Semijoias com qualidade premium. Até 6x s/ juros no cartão. Enviamos para todo Brasil. Frete Grátis",
   "sections": [
     {
+      "type": "custom-html",
+      "html": "<div class=\"mobileannouncement\"><img src=\"//cdn.shopify.com/s/files/1/0558/0642/7295/files/NOVA_POR_AQUI_2000x100.png?v=1662596450\"></div>"
+    },
+    {
       "type": "banner-slider",
       "autoplay": 9000,
       "full_width": true,
