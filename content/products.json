@@ -1,12 +1,12 @@
 {
   "sections": [
     {
-      "type": "breadcrumbs",
-      "enabled": true
-    },
-    {
       "type": "custom-content",
       "markdown": "<section class=\"primeiracompra\"><div class=\"mobileannouncement\"><img src=\"/img/uploads/primeira.avif\"></div></section>"
+    },
+    {
+      "type": "breadcrumbs",
+      "enabled": true
     },
     {
       "type": "product-block",
