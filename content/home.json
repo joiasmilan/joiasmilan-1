@@ -4,7 +4,7 @@
   "sections": [
     {
       "type": "custom-content",
-      "markdown": "<section class=\"primeiracompra\"><div class=\"mobileannouncement\"><img src=\"//cdn.shopify.com/s/files/1/0558/0642/7295/files/NOVA_POR_AQUI_2000x100.png?v=1662596450\"></div></section>"
+      "markdown": "<section class=\"primeiracompra\"><div class=\"mobileannouncement\"><img src=\"/img/uploads/primeira.avif\"></div></section>"
     },
     {
       "type": "banner-slider",
