@@ -5,6 +5,10 @@
       "enabled": true
     },
     {
+      "type": "custom-content",
+      "markdown": "<section class=\"primeiracompra\"><div class=\"mobileannouncement\"><img src=\"/img/uploads/primeira.avif\"></div></section>"
+    },
+    {
       "type": "product-block",
       "enabled": true,
       "size_guide": {
