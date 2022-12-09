@@ -7,6 +7,10 @@
       "markdown": "<section class=\"primeiracompra\"><div class=\"mobileannouncement\"><img src=\"/img/uploads/primeira.webp\"></div></section>"
     },
     {
+      "type": "custom-content",
+      "markdown": "<section class=\"primeiracompra\"><div class=\"mobileannouncement\"><img src=\"/img/uploads/primeira.webp\"></div></section>"
+    },
+    {
       "type": "banner-slider",
       "autoplay": 9000,
       "full_width": true,
