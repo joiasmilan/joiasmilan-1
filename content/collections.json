@@ -31,6 +31,10 @@
     {
       "type": "custom-content",
       "markdown": "<div class=\"ml-embedded\" data-form=\"2VV3lb\"></div>"
+    },
+    {
+      "type": "custom-content",
+      "markdown": "<div class=\"novo-alerta\"><strong>1ª PRIMEIRA COMPRA NA LOJA?</strong><p>USE O CUPOM: <span id=\"nomecupom\">BEMVINDA10</span><button id=\"btcopiar\"><i class=\"fa fa-copy\"></i></button></p><div id=\"copia-cupom-ok\" style=\"display: block;\">Cupom copiado!</div></div>"
     }
   ]
 }
