@@ -1,10 +1,6 @@
 {
   "sections": [
     {
-      "type": "custom-content",
-      "markdown": "<section class=\"primeiracompra\"><div class=\"mobileannouncement\"><img src=\"/img/uploads/primeira.webp\"></div></section>"
-    },
-    {
       "type": "breadcrumbs",
       "enabled": true
     },
