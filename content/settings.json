@@ -1,7 +1,7 @@
 {
   "domain": "joiasmilan.com.br",
   "currency_symbol": "R$",
-  "primary_color": "#000000",
+  "primary_color": "#111111",
   "theme": {
     "bootswatch": "_",
     "custom": "ecom-beauty"
@@ -9,7 +9,7 @@
   "bg_color": "#ffffff",
   "repository": "ecomplus-stores/joiasmilan",
   "logo": "/img/uploads/milan_logo-preto-e-transparente.webp",
-  "name": "Joias Milan",
+  "name": "Joias Milan ",
   "short_name": "Joias Milan",
   "lang": "pt_br",
   "currency": "BRL",
@@ -18,7 +18,7 @@
   "favicon": "/img/uploads/logo-icon.png",
   "icons_font": "_",
   "country_code": "BR",
-  "secondary_color": "#000000",
+  "secondary_color": "#111111",
   "icon": "/img/uploads/logo-marca.png",
   "store_id": 51268,
   "description": "Loja Oficial da marca Joias Milan. Somos uma loja online que comercializa Semijoias e acessórios com design premium. Atendemos a todo o Brasil via Correios e Transportadoras. Nossa sede fica em Pirassununga, interior de São Paulo, se você é da região e quiser nos visitar, fique à vontade, será um prazer te receber! Brincos, colares, anéis, pulseiras, personalizados e lançamentos, você encontra aqui.",
