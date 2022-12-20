@@ -161,10 +161,6 @@
       "markdown": "<script src=\"https://apps.elfsight.com/p/platform.js\" async defer></script>\n\n<div class=\"elfsight-app-276274f6-c28c-496b-81f9-7c4c76371454\"></div>"
     },
     {
-      "type": "custom-html",
-      "html": "<div class=\"whats-s3\">       <div class=\"whats-1\">         <img src=\"/img/uploads/whats-2022.png\" alt=\"\">       </div>       <div class=\"whats-2\">         <span>           Compre pelo<br>           Whatsapp         </span>       </div>       <a href=\"https://api.whatsapp.com/send?phone=5519996681211\" target=\"_blank\" title=\"Whatsapp\">Whatsapp</a>     </div>"
-    },
-    {
       "type": "custom-content",
       "markdown": "<div class=\"ml-embedded\" data-form=\"2VV3lb\"></div>"
     }
