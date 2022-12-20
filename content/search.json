@@ -11,10 +11,6 @@
     {
       "type": "custom-html",
       "html": "<div class=\"extra-page\"><section class=\"md-content mb-5 pt-1 pt-sm-2 pt-lg-3\"><div class=\"container\"><p><a id=\"cliente\"></a> Oferta Imperdível para você!</p><ul><li>Ganhe <strong>FRETE GRÁTIS</strong> em compras a partir de R$ 189!</li><li>Joias com até <strong>70% de desconto! <a href=\"https://www.joiasmilan.com.br/outlet\">Clique aqui.</a></strong></li><li><strong>CASHBACK</strong> no <a href=\"https://www.joiasmilan.com.br/pages/programa-de-fidelidade\">programa de Fidelidade</a>!</li></ul><p>Em todos pedidos você <a href=\"https://www.joiasmilan.com.br/pages/programa-de-fidelidade\">ganha pontos (saiba mais)</a> que podem ser usados em sua próxima compra (<strong>cashback</strong>).</p></div></section></div>"
-    },
-    {
-      "type": "custom-html",
-      "html": "<div class=\"whats-s3\">       <div class=\"whats-1\">         <img src=\"/img/uploads/whats-2022.png\" alt=\"\">       </div>       <div class=\"whats-2\">         <span>           Compre pelo<br>           Whatsapp         </span>       </div>       <a href=\"https://api.whatsapp.com/send?phone=5519996681211\" target=\"_blank\" title=\"Whatsapp\">Whatsapp</a>     </div>"
     }
   ]
 }
