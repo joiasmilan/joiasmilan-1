@@ -1,7 +1,7 @@
 {
   "domain": "joiasmilan.com.br",
   "currency_symbol": "R$",
-  "primary_color": "#f6f6f6",
+  "primary_color": "#111111",
   "theme": {
     "bootswatch": "_",
     "custom": "ecom-beauty"
