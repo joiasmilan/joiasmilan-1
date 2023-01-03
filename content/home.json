@@ -10,14 +10,6 @@
         {
           "start": "",
           "end": "",
-          "img": "/img/uploads/banner-desktop.webp",
-          "alt": "Promoção de natal",
-          "link": "https://www.joiasmilan.com.br/outlet",
-          "mobile_img": "/img/uploads/banner-celular.webp"
-        },
-        {
-          "start": "",
-          "end": "",
           "img": "https://res.cloudinary.com/joiasmilan/image/upload/v1653671345/ezgif.com-gif-maker_ffl2ji.webp",
           "link": "https://www.joiasmilan.com.br/outlet",
           "alt": "Outlet",
