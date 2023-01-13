@@ -30,6 +30,10 @@
       "enabled": true
     },
     {
+      "type": "custom-html",
+      "html": "<div class=\"story-conteiner\">\n        <ul>  \n            <li class=\"has-story\">\n                <div class=\"story\">\n                    <a href=\"https://www.joiasmilan.com.br/lancamentos\"><img src=\"/img/uploads/story_lancamentos.webp\"></a>\n                </div>\n                <span class=\"user\">Lançamentos</span>\n            </li>       \n            <li class=\"has-story\">\n                <div class=\"story\">\n                    <a href=\"https://www.joiasmilan.com.br/brincos\"><img src=\"/img/uploads/story_brincos.webp\"></a>\n                </div>\n                <span class=\"user\">Brincos</span>\n            </li>\n            <li class=\"has-story\">\n                <div class=\"story\">\n                    <a href=\"https://www.joiasmilan.com.br/colares\"><img src=\"/img/uploads/story_colares.webp\"></a>\n                </div>\n                <span class=\"user\">Colares</span>\n            </li>\n            <li class=\"has-story\">\n                <div class=\"story\">\n                    <a href=\"https://www.joiasmilan.com.br/pulseiras\"><img src=\"/img/uploads/story_pulseiras.webp\"></a>\n                </div>\n                <span class=\"user\">Pulseiras</span>\n            </li>\n            <li class=\"has-story\">\n                <div class=\"story\">\n                    <a href=\"https://www.joiasmilan.com.br/tornozeleiras\"><img src=\"/img/uploads/story_tornozeleiras.webp\"></a>\n                </div>\n                <span class=\"user\">Tornozeleiras</span>\n            </li>\n            <li class=\"has-story\">\n                <div class=\"story\">\n                    <a href=\"https://www.joiasmilan.com.br/gargantilhas-e-chokers\"><img src=\"/img/uploads/story_chokers1.webp\"></a>\n                </div>\n                <span class=\"user\">Chockers</span>\n            </li>\n            <li class=\"has-story\">\n                <div class=\"story\">\n                    <a href=\"https://www.joiasmilan.com.br/combos\"><img src=\"/img/uploads/story_combos.webp\"></a>\n                </div>\n                <span class=\"user\">Combos</span>\n            </li>           \n            <li class=\"has-story\">\n                <div class=\"story\">\n                    <a href=\"https://www.joiasmilan.com.br/religiosos\"><img src=\"/img/uploads/story_religiosos.webp\"></a>\n                </div>\n                <span class=\"user\">Religiosos</span>\n            </li>           \n            <li class=\"has-story\">\n                <div class=\"story\">\n                    <a href=\"https://www.joiasmilan.com.br/outlet\"><img src=\"/img/uploads/story_outlet.webp\"></a>\n                </div>\n                <span class=\"user\">Outlet</span>\n            </li>          \n            <li class=\"has-story\">\n                <div class=\"story\">\n                    <a href=\"https://wa.me/5519996681211?text=Ol%C3%A1,%20gostaria%20de%20tirar%20uma%20d%C3%BAvida.%20Poderiam%20me%20ajudar?\" target=\"”_blank”\"><img src=\"/img/uploads/whatsapp-icone-3.webp\"></a>\n                </div>\n                <span class=\"user\">Atendimento</span>\n            </li>            \n          \n        </ul>\n    </div>"
+    },
+    {
       "type": "offers-timer",
       "max_hours": 24,
       "start": "2022-12-22T13:15:39.485Z",
@@ -39,6 +43,45 @@
         "628c7d6ddf4d8071c920f1c3"
       ],
       "notes": "Oferta Relâmpago"
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": true,
+      "collection_id": "628c42bddf4d8071c920b2e4:brands:Joias Milan:/joiasmilan",
+      "sort": null,
+      "title": "Lançamentos",
+      "headless": false,
+      "limit": 12,
+      "page": 1
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": true,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "628c42bddf4d8071c920b2e4:brands:Joias Milan:/joiasmilan",
+      "sort": "sales",
+      "title": "Mais Vendidos"
+    },
+    {
+      "type": "banners-grid",
+      "banners": [
+        {
+          "img": "/img/uploads/d1.webp",
+          "link": "https://www.joiasmilan.com.br/pages/programa-de-fidelidade",
+          "alt": "Programa de Fidelidade",
+          "mobile_img": "/img/uploads/d2.webp"
+        }
+      ]
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": true,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "628c3ffddf4d8071c920ae35:categories:Outlet:/outlet",
+      "sort": null,
+      "title": "Ofertas"
     },
     {
       "type": "custom-html",
@@ -95,45 +138,6 @@
           "mobile_img": "/img/uploads/2.webp"
         }
       ]
-    },
-    {
-      "type": "collection-shelf",
-      "shuffle": true,
-      "collection_id": "628c42bddf4d8071c920b2e4:brands:Joias Milan:/joiasmilan",
-      "sort": null,
-      "title": "Lançamentos",
-      "headless": false,
-      "limit": 12,
-      "page": 1
-    },
-    {
-      "type": "collection-shelf",
-      "shuffle": true,
-      "limit": 12,
-      "page": 1,
-      "collection_id": "628c42bddf4d8071c920b2e4:brands:Joias Milan:/joiasmilan",
-      "sort": "sales",
-      "title": "Mais Vendidos"
-    },
-    {
-      "type": "banners-grid",
-      "banners": [
-        {
-          "img": "/img/uploads/d1.webp",
-          "link": "https://www.joiasmilan.com.br/pages/programa-de-fidelidade",
-          "alt": "Programa de Fidelidade",
-          "mobile_img": "/img/uploads/d2.webp"
-        }
-      ]
-    },
-    {
-      "type": "collection-shelf",
-      "shuffle": true,
-      "limit": 12,
-      "page": 1,
-      "collection_id": "628c3ffddf4d8071c920ae35:categories:Outlet:/outlet",
-      "sort": null,
-      "title": "Ofertas"
     },
     {
       "type": "collection-shelf",
