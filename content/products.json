@@ -33,6 +33,16 @@
       "title": "Quem comprou este produto, também comprou:"
     },
     {
+      "type": "collection-shelf",
+      "shuffle": true,
+      "limit": 12,
+      "page": 3,
+      "headless": false,
+      "sort": "views",
+      "collection_id": "628c42bddf4d8071c920b2e4:brands:Joias Milan:/joiasmilan",
+      "title": "teste"
+    },
+    {
       "type": "dynamic-showcase",
       "load_more": true,
       "sort": "views"
