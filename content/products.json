@@ -34,8 +34,12 @@
       "limit": 12,
       "page": 1,
       "collection_id": "628c42bddf4d8071c920b2e4:brands:Joias Milan:/joiasmilan",
-      "sort": null,
-      "title": "O que outros clientes estão vendo"
+      "sort": "views",
+      "title": "Os mais desejados"
+    },
+    {
+      "type": "dynamic-showcase",
+      "load_more": true
     },
     {
       "type": "banners-grid",
