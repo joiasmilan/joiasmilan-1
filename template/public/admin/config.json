@@ -4,5 +4,41 @@
     "branch": "master",
     "identity_url": "https://gotrue.ecomplus.biz/51268/.netlify/identity",
     "gateway_url": "https://gitgateway.ecomplus.biz/51268/.netlify/git"
-  }
+  },
+  "collections": [
+    {
+      "label" : "[alpix.dev]",
+      "name": "alpix",
+      "editor": {
+        "preview": false
+      },
+      "files": [
+        {
+          "name": "apx_header",
+          "label": "Cabeçalho",
+          "file": "content/apx_header.json",
+          "fields": [
+            {
+              "label": "Tarja Slider",
+              "name": "stripe_slider",
+              "widget": "list",
+              "required":false,
+              "fields": [
+                {
+                  "label": "Texto / HTML",
+                  "name": "text",
+                  "widget": "string"          
+                },
+                {
+                  "label": "URL",
+                  "name": "url",
+                  "widget": "string"          
+                }      
+              ]
+            }
+          ]
+        }        
+      ]
+    }
+  ]
 }

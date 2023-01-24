@@ -1,0 +1,20 @@
+{
+  "stripe_slider" : [
+    {
+      "text" : "FRETE GRÁTIS A PARTIR DE R$189",
+      "url" : ""
+    },
+    {
+      "text" : "5% DE DESCONTO NO PIX",
+      "url" : ""
+    },
+    {
+      "text" : "6X SEM JUROS NO CARTÃO",
+      "url" : ""
+    },
+    {
+      "text" : "TROCA GRÁTIS EM ATÉ 30 DIAS",
+      "url" : ""
+    }
+  ]  
+}

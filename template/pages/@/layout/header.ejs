@@ -3,6 +3,7 @@
 const header = _.cms('header') || {}
 const contacts = _.cms('contacts') || {}
 const themeCustom = _.settings.theme.custom || ''
+const apx_header = _.cms('apx_header') || {}
 
 // social networks handled by contacts
 const networks = [
@@ -52,6 +53,7 @@ const fullWidthSubmenu = header.full_width_submenu
 
 <div id="overlay" class="fade"></div>
 
+<!--
 <div class="top-bar">
   <% if (header.marketing_stripe) { %>
     <% if (header.marketing_stripe.text) { %>
@@ -118,7 +120,49 @@ const fullWidthSubmenu = header.full_width_submenu
     </div>
   </div>
 </div>
-
+-->
+<div class="top-bar" style="<%= marketingStripeStyle %>">
+  <div class="container-fluid">
+    <div class="row">
+      <div class="col">
+        <div
+          class="glide"
+          data-wait-mutation="false"
+          data-autoplay="4000"
+          data-per-view="1"
+          data-per-view-md="1"
+          data-per-view-sm="1"
+        >
+          <div class="glide__track" data-glide-el="track">
+            <ul class="glide__slides">
+            <% if (apx_header.stripe_slider) { %>
+              <% apx_header.stripe_slider.forEach(({ text, url })=> { %>
+                <li class="glide__slide">
+                <% if (text) { %>
+                  <% if (url) { %>
+                    <a
+                      class="top-bar__countdown"
+                      style="<%= marketingStripeStyle %>"
+                      href="<%= url %>"
+                    >
+                      <%- text %>
+                    </a>
+                  <% } else { %>
+                    <div class="top-bar__countdown" style="<%= marketingStripeStyle %>">
+                      <%- text %>
+                    </div>
+                  <% } %>
+                <% } %>
+                </li>
+              <% }) %>
+            <% } %>
+            </ul>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
 <header class="header" id="header">
   <div class="header__container container-fluid">
     <div class="header__row row">
