@@ -1,20 +1,20 @@
 {
-  "stripe_slider" : [
+  "stripe_slider": [
     {
-      "text" : "FRETE GRÁTIS A PARTIR DE R$189",
-      "url" : ""
+      "text": "FRETE GRÁTIS A PARTIR DE R$189",
+      "url": "https://www.joiasmilan.com.br/"
     },
     {
-      "text" : "5% DE DESCONTO NO PIX",
-      "url" : ""
+      "text": "6X SEM JUROS NO CARTÃO",
+      "url": "https://www.joiasmilan.com.br/"
     },
     {
-      "text" : "6X SEM JUROS NO CARTÃO",
-      "url" : ""
+      "text": "TROCA GRÁTIS EM ATÉ 30 DIAS",
+      "url": "https://www.joiasmilan.com.br/"
     },
     {
-      "text" : "TROCA GRÁTIS EM ATÉ 30 DIAS",
-      "url" : ""
+      "text": "CASHBACK + 5% DE DESCONTO NO PIX",
+      "url": "https://www.joiasmilan.com.br/"
     }
-  ]  
+  ]
 }
