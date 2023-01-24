@@ -12,7 +12,7 @@
         "link": "https://www.joiasmilan.com.br/pages/revenda"
       }
     ],
-    "phone_wpp": true,
+    "phone_wpp": false,
     "socials": false
   },
   "categories_list": {
