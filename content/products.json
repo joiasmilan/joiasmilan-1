@@ -73,10 +73,6 @@
     {
       "type": "custom-html",
       "html": "<script src=\"https://www.mercadopago.com/v2/security.js\" view=\"item\"></script>"
-    },
-    {
-      "type": "custom-html",
-      "html": "      <div class='novo-alerta'><strong>1ª PRIMEIRA COMPRA NA LOJA?</strong><p>USE O CUPOM: <span id='nomecupom'>BEMVINDA</span><button id=\"btcopiar\"><i class='fa fa-copy'></i></button></p></div>\n<div id=\"copia-cupom-ok\">Cupom copiado!</div>"
     }
   ]
 }
