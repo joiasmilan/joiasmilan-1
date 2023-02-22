@@ -10,6 +10,14 @@
         {
           "start": "",
           "end": "",
+          "img": "/img/uploads/banner-desktop-n1.webp",
+          "link": "https://www.joiasmilan.com.br/",
+          "alt": "Vantagens Joias Milan",
+          "mobile_img": "/img/uploads/banner-mobile-n1.webp"
+        },
+        {
+          "start": "",
+          "end": "",
           "img": "https://res.cloudinary.com/joiasmilan/image/upload/v1653671345/ezgif.com-gif-maker_ffl2ji.webp",
           "link": "https://www.joiasmilan.com.br/outlet",
           "alt": "Outlet",
