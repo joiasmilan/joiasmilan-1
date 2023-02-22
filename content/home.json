@@ -36,10 +36,13 @@
     {
       "type": "offers-timer",
       "max_hours": 24,
-      "start": "2023-02-08T20:50:19.791Z",
-      "end": "2023-02-10T02:59:20.588Z",
-      "offers": [],
-      "notes": "Oferta Relâmpago"
+      "start": "2023-02-22T12:48:39.066Z",
+      "end": "2023-02-23T02:59:39.918Z",
+      "offers": [
+        "628c7d13df4d8071c920f171",
+        "628c7d0edf4d8071c920f161"
+      ],
+      "notes": "Somente Hoje!"
     },
     {
       "type": "collection-shelf",
