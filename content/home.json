@@ -163,7 +163,7 @@
     },
     {
       "type": "custom-html",
-      "html": "<div id=\"ad-placements\" class=\"container\">\n  <h6 class=\"ad-space-title\">Publicidade</h6>\n\n  <div class=\"ads\">\n\n<amp-ad width=\"100vw\" height=\"320\"\n     type=\"adsense\"\n     data-ad-client=\"ca-pub-8875749113208157\"\n     data-ad-slot=\"2753848747\"\n     data-auto-format=\"rspv\"\n     data-full-width=\"\">\n  <div overflow=\"\"></div>\n</amp-ad>\n\n  </div>\n</div>"
+      "html": "<div id=\"ad-placements\" class=\"container\">\n  <h6 class=\"ad-space-title\">Publicidade</h6>\n\n  <div class=\"ads\">\n\n<script async src=\"https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8875749113208157\"\n     crossorigin=\"anonymous\"></script>\n<!-- 01 -->\n<ins class=\"adsbygoogle\"\n     style=\"display:block\"\n     data-ad-client=\"ca-pub-8875749113208157\"\n     data-ad-slot=\"2753848747\"\n     data-ad-format=\"auto\"\n     data-full-width-responsive=\"true\"></ins>\n<script>\n     (adsbygoogle = window.adsbygoogle || []).push({});\n</script>\n\n  </div>\n</div>"
     },
     {
       "type": "custom-content",
