@@ -64,6 +64,10 @@
     },
     {
       "type": "custom-html",
+      "html": "<script async src=\"https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8875749113208157\"\n     crossorigin=\"anonymous\"></script>\n<!-- 2 -->\n<ins class=\"adsbygoogle\"\n     style=\"display:block\"\n     data-ad-client=\"ca-pub-8875749113208157\"\n     data-ad-slot=\"8153283573\"\n     data-ad-format=\"auto\"\n     data-full-width-responsive=\"true\"></ins>\n<script>\n     (adsbygoogle = window.adsbygoogle || []).push({});\n</script>"
+    },
+    {
+      "type": "custom-html",
       "html": "<div class=\"whats-s3\">       <div class=\"whats-1\">         <img src=\"/img/uploads/whats-2022.png\" alt=\"\">       </div>       <div class=\"whats-2\">         <span>           Compre pelo<br>           Whatsapp         </span>       </div>       <a href=\"https://api.whatsapp.com/send?phone=5519999885087\" target=\"_blank\" title=\"Whatsapp\">Whatsapp</a>     </div>"
     },
     {
