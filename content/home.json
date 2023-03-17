@@ -70,7 +70,7 @@
     },
     {
       "type": "custom-html",
-      "html": "<div class=\"page-title container mt-4 mb-4 mb-lg-5\"><div class=\"page-title__head\"><h1 class=\"my-0\">Principais Categorias</h1></div><div class=\"page-title__short-description lead\">para um brilho completo</div></div>"
+      "html": "<div id=\"ad-placements\" class=\"container\">\n  <h6 class=\"ad-space-title\">Publicidade</h6>\n\n      <div class=\"ads\">\n         \n    <div class=\"ad-box-1a\">\n<script async src=\"https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8875749113208157\"\n     crossorigin=\"anonymous\"></script>\n<!-- Anúncio 22 -->\n<ins class=\"adsbygoogle\"\n     style=\"display:inline-block;width:300px;height:250px\"\n     data-ad-client=\"ca-pub-8875749113208157\"\n     data-ad-slot=\"2544294285\"></ins>\n<script>\n     (adsbygoogle = window.adsbygoogle || []).push({});\n</script>\n</div>\n    \n    <div class=\"ad-box-2a\">\n<script async src=\"https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8875749113208157\"\n     crossorigin=\"anonymous\"></script>\n<!-- Anúncio 23 -->\n<ins class=\"adsbygoogle\"\n     style=\"display:inline-block;width:728px;height:90px\"\n     data-ad-client=\"ca-pub-8875749113208157\"\n     data-ad-slot=\"5568529989\"></ins>\n<script>\n     (adsbygoogle = window.adsbygoogle || []).push({});\n</script>\n</div>\n  \n    </div>\n  </div>"
     },
     {
       "type": "banners-grid",
@@ -94,7 +94,7 @@
     },
     {
       "type": "custom-html",
-      "html": "<div id=\"ad-placements\" class=\"container\">\n  <h6 class=\"ad-space-title\">Publicidade</h6>\n\n      <div class=\"ads\">\n         \n    <div class=\"ad-box-1a\">\n<script async src=\"https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8875749113208157\"\n     crossorigin=\"anonymous\"></script>\n<!-- Anúncio 22 -->\n<ins class=\"adsbygoogle\"\n     style=\"display:inline-block;width:300px;height:250px\"\n     data-ad-client=\"ca-pub-8875749113208157\"\n     data-ad-slot=\"2544294285\"></ins>\n<script>\n     (adsbygoogle = window.adsbygoogle || []).push({});\n</script>\n</div>\n    \n    <div class=\"ad-box-2a\">\n<script async src=\"https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8875749113208157\"\n     crossorigin=\"anonymous\"></script>\n<!-- Anúncio 23 -->\n<ins class=\"adsbygoogle\"\n     style=\"display:inline-block;width:728px;height:90px\"\n     data-ad-client=\"ca-pub-8875749113208157\"\n     data-ad-slot=\"5568529989\"></ins>\n<script>\n     (adsbygoogle = window.adsbygoogle || []).push({});\n</script>\n</div>\n  \n    </div>\n  </div>"
+      "html": "<div class=\"page-title container mt-4 mb-4 mb-lg-5\"><div class=\"page-title__head\"><h1 class=\"my-0\">Principais Categorias</h1></div><div class=\"page-title__short-description lead\">para um brilho completo</div></div>"
     },
     {
       "type": "banners-grid",
