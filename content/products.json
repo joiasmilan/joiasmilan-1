@@ -73,6 +73,10 @@
     {
       "type": "custom-html",
       "html": "<script src=\"https://www.mercadopago.com/v2/security.js\" view=\"item\"></script>"
+    },
+    {
+      "type": "custom-html",
+      "html": "<div id=\"ad-placements\" class=\"container\">\n  <h6 class=\"ad-space-title\">Publicidade</h6>\n\n      <div class=\"ads\">\n         \n    <div class=\"ad-box-1a\">\n<script async src=\"https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8875749113208157\"\n     crossorigin=\"anonymous\"></script>\n<!-- Anúncio 24 -->\n<ins class=\"adsbygoogle\"\n     style=\"display:inline-block;width:300px;height:250px\"\n     data-ad-client=\"ca-pub-8875749113208157\"\n     data-ad-slot=\"8214341793\"></ins>\n<script>\n     (adsbygoogle = window.adsbygoogle || []).push({});\n</script>\n</div>\n    \n    <div class=\"ad-box-2a\">\n<script async src=\"https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8875749113208157\"\n     crossorigin=\"anonymous\"></script>\n<!-- Anúncio 25 -->\n<ins class=\"adsbygoogle\"\n     style=\"display:inline-block;width:728px;height:90px\"\n     data-ad-client=\"ca-pub-8875749113208157\"\n     data-ad-slot=\"1877547040\"></ins>\n<script>\n     (adsbygoogle = window.adsbygoogle || []).push({});\n</script>\n</div>\n  \n    </div>\n  </div>"
     }
   ]
 }
