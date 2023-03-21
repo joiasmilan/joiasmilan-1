@@ -106,6 +106,7 @@
     "mastercard": true,
     "citibank": false,
     "mais": false,
+    "pix": true,
     "amex": true,
     "itau": false
   },
