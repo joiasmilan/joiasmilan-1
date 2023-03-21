@@ -15,6 +15,10 @@
     {
       "type": "custom-html",
       "html": "<p><iframe frameborder=\"0\" height=\"400\" scrolling=\"no\" src=\"https://maps.google.com/maps?f=q&amp;source=s_q&amp;hl=pt-BR&amp;geocode=&amp;q=Adamantina+-+SP,+Brasil&amp;output=embed\" width=\"100%\"></iframe></p>\n\n<p><span style=\"color:#000000\"><span style=\"font-size:14px\">Conhe&ccedil;a um pouco mais sobre <strong>Adamantina / SP</strong></span></span></p>\n"
+    },
+    {
+      "type": "custom-html",
+      "html": "<div class=\"whats-s3\">       <div class=\"whats-1\">         <img src=\"/img/uploads/whats-2022.png\" alt=\"\">       </div>       <div class=\"whats-2\">         <span>           Compre pelo<br>           Whatsapp         </span>       </div>       <a href=\"https://api.whatsapp.com/send?phone=5519999885087\" target=\"_blank\" title=\"Whatsapp\">Whatsapp</a>     </div>"
     }
   ]
 }
