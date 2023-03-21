@@ -6,7 +6,12 @@
   "links_1": {
     "list_pages": true,
     "title": "INFORMAÇÕES",
-    "list": []
+    "list": [
+      {
+        "text": "Sobre nós",
+        "url": "https://www.joiasmilan.com.br/pages/sobre-nos"
+      }
+    ]
   },
   "links_2": {
     "list_categories": true,
