@@ -64,10 +64,6 @@
     {
       "type": "custom-html",
       "html": "<script src=\"https://www.mercadopago.com/v2/security.js\" view=\"item\"></script>"
-    },
-    {
-      "type": "custom-content",
-      "markdown": "<div class=\"ml-embedded\" data-form=\"2VV3lb\"></div>"
     }
   ]
 }
