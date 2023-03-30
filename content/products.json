@@ -17,10 +17,6 @@
       "enabled": true
     },
     {
-      "type": "product-specifications",
-      "enabled": true
-    },
-    {
       "type": "custom-html",
       "html": "<div id=\"vurdere-socialexpressions\"></div>\n<div id=\"vurdere-socialreviews\"></div>\n<div id=\"vurdere-socialdisplays\"></div>"
     },
