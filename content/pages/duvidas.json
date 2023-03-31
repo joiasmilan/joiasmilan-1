@@ -1,0 +1,23 @@
+{
+  "sections": [
+    {
+      "type": "breadcrumbs",
+      "enabled": true
+    },
+    {
+      "type": "custom-html",
+      "html": "<div class=\"links-page-duvidas\" data-content-type=\"row\" data-appearance=\"full-width\" data-enable-parallax=\"0\" data-parallax-speed=\"0.5\" data-background-images=\"{}\" data-background-type=\"image\" data-video-loop=\"true\" data-video-play-only-visible=\"true\" data-video-lazy-load=\"true\" data-video-fallback-src=\"\" data-element=\"main\" data-pb-style=\"CD1DQKS\"><div class=\"row-full-width-inner\" data-element=\"inner\"><div data-content-type=\"html\" data-appearance=\"default\" data-element=\"main\" data-pb-style=\"VIQ1Q5J\" data-decoded=\"true\"><div class=\"bg-page-duvidas\">\n   <div class=\"content\">\n      <ul>\n         <li><a href=\"#\" class=\"active\" style=\"margin-right:20px\" ;=\"\">DÚVIDAS</a></li>\n         <li><a href=\"/pages/devolucoes\">Devoluções</a></li>\n      </ul>\n   </div>\n</div></div></div></div>"
+    },
+    {
+      "type": "page-title"
+    },
+    {
+      "type": "extra-page",
+      "enabled": true
+    }
+  ],
+  "title": "Dúvidas",
+  "body": "d﻿úvidas",
+  "meta_title": "Dúvidas",
+  "meta_description": "Dúvidas"
+}
