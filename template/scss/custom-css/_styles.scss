@@ -142,16 +142,16 @@ aside#menu .buttons a span{
   border-radius: 5px;
 }
 
-.prices__discount{
+.apx_prices .prices__discount{
   margin: 10px 0 15px 0;
   border-bottom: 1px solid #f2f2f2;
   padding-bottom: 10px;
-  span{
+}
+.apx_prices .prices__discount >  span{
     font-size: 25px;
     color: var(--primary)!important;
   }
-  .prices__discount-label{}
-}
+  
 
 .apx-label-text{
   color:#000;
@@ -165,11 +165,13 @@ aside#menu .buttons a span{
     margin-top:15px;
     width:fit-content;
     padding: 8px 15px;
-  border-radius: 5px;
+    border-radius: 5px;
   }
 }
-main .product__prices{border:0;padding-bottom:0;}
-body main .product__prices .prices__value{font-size:18px;font-weight:600;}
-body main .product__prices .prices_installments,
-body main .product__prices .prices_installments *{font-size:14px;}
-.product__prices .product__discount{display:none}
+main .product__prices {border:0;padding-bottom:0;}
+body main .product__prices .apx_prices .prices__value{font-size:18px;font-weight:600;}
+body main .product__prices .apx_prices .prices_installments,
+body main .product__prices .apx_prices .prices_installments *{font-size:14px;}
+.product__prices .apx_prices .product__discount{display:none}
+
+#accordion-menu  > .collapse.show:not(#categories-nav){padding-top:30px}
