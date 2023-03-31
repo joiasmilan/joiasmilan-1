@@ -1,0 +1,24 @@
+{
+  "title": "Devoluções",
+  "body": "D﻿evoluções",
+  "meta_title": "Devoluções",
+  "meta_description": "Devoluções",
+  "sections": [
+    {
+      "type": "breadcrumbs",
+      "enabled": true
+    },
+    {
+      "type": "custom-html",
+      "html": "<div class=\"links-page-duvidas\" data-content-type=\"row\" data-appearance=\"full-width\" data-enable-parallax=\"0\" data-parallax-speed=\"0.5\" data-background-images=\"{}\" data-background-type=\"image\" data-video-loop=\"true\" data-video-play-only-visible=\"true\" data-video-lazy-load=\"true\" data-video-fallback-src=\"\" data-element=\"main\" data-pb-style=\"MSG2VCO\"><div class=\"row-full-width-inner\" data-element=\"inner\"><div data-content-type=\"html\" data-appearance=\"default\" data-element=\"main\" data-decoded=\"true\"><div class=\"bg-page-duvidas\">\n   <div class=\"content\">\n      <ul>\n         <li><a href=\"/pages/duvidas\" style=\"margin-right: 20px;\">DÚVIDAS</a></li>\n         <li><a href=\"#\" class=\"active\">Devoluções</a></li>\n      </ul>\n   </div>\n</div></div></div></div>"
+    },
+    {
+      "type": "page-title",
+      "title": "Devoluções"
+    },
+    {
+      "type": "extra-page",
+      "enabled": true
+    }
+  ]
+}
