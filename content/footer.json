@@ -16,20 +16,8 @@
         "url": "https://www.joiasmilan.com.br/pages/contato"
       },
       {
-        "text": "Segurança",
-        "url": "https://www.joiasmilan.com.br/pages/faq"
-      },
-      {
-        "text": "Formas de Pagamento",
-        "url": "https://www.joiasmilan.com.br/pages/entrega"
-      },
-      {
         "text": "Promoções, Cupons e Brindes",
         "url": "https://www.joiasmilan.com.br/pages/pagamentos"
-      },
-      {
-        "text": "Políticas de Envio",
-        "url": "https://www.joiasmilan.com.br/pages/politicas-de-envio"
       },
       {
         "text": "Política de Privacidade",
@@ -46,6 +34,10 @@
       {
         "text": "Trocas e Devoluções",
         "url": "https://www.joiasmilan.com.br/pages/trocas"
+      },
+      {
+        "text": "Dúvidas",
+        "url": "https://www.joiasmilan.com.br/pages/duvidas"
       }
     ]
   },
