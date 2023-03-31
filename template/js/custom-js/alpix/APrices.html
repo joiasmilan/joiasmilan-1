@@ -35,7 +35,7 @@
             {{ ((((priceWithDiscount / comparePrice) * 100) - 100)).toFixed(2) * -1 }}% OFF
         </small>
         <small v-else class="apx-label-discount">
-          {{ (((priceWithDiscount / price) * 100) - 100) * -1 }}% OFF
+          {{ (((priceWithDiscount / price) * 100) - 100).toFixed(2) * -1 }}% OFF
         </small>
         <div class="w-100 apx-label-text">
             Pague com PIX e garanta esse desconto
