@@ -83,4 +83,93 @@
     }
 }
 
+aside#menu.animated .buttons{display:none!important}
+aside#menu{
+  overflow-x:visible;
+  max-width:260px
+}
+aside#menu .buttons{
+  list-style: none;
+  justify-content: center;
+  list-style: none;
+  padding: 25px;
+  position: fixed;
+  right: 0;
+  margin: 0;
+  height: 100%;
+  display: flex!important;
+  align-items: center;
+  gap: 3rem;
+  flex-direction:column;
+  justify-content: flex-start;
+}
+aside#menu .buttons a{
+  display:block;
+  text-align: center;
+}
+aside#menu .buttons a i svg{
+  color:#000;
+  fill:#000;
+  height:20px;
+}
+aside#menu .buttons a i{
+  line-height:32px;
+  height:36px;
+  width:36px;
+  border-radius:50%;
+  background:#fff;
+  box-shadow:3px 3px 3px rgba(0,0,0,.3);
+  display: block;
+  margin:0 auto 8px auto;
 
+}
+aside#menu .buttons a span{
+  font-size:9px;
+  color:#fff;
+  max-width:65px;
+  display: block;
+  text-transform: uppercase;
+}
+.menu__list{padding-top:0}
+
+.apx-label-discount{
+  background:#000;
+  color:#fff;
+  text-transform: uppercase!important;
+  font-weight: bold;
+  font-size: 14px!important;
+  padding: 2px 8px;
+  border-radius: 5px;
+}
+
+.prices__discount{
+  margin: 10px 0 15px 0;
+  border-bottom: 1px solid #f2f2f2;
+  padding-bottom: 10px;
+  span{
+    font-size: 25px;
+    color: var(--primary)!important;
+  }
+  .prices__discount-label{}
+}
+
+.apx-label-text{
+  color:#000;
+  font-size:14px;
+  margin:10px 0;
+  span{
+    color:#28a745!important;
+    background:#E6F8F2;
+    display:block;
+    font-size:14px;
+    margin-top:15px;
+    width:fit-content;
+    padding: 8px 15px;
+  border-radius: 5px;
+  }
+}
+main .product__prices{border:0;padding-bottom:0;}
+body main .product__prices .prices__value{font-size:18px;font-weight:600;}
+body main .product__prices .prices_installments,
+body main .product__prices .prices_installments *{font-size:14px;}
+.product__prices .product__discount{display:none}
