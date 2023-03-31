@@ -1,0 +1,20 @@
+{
+  "title": "Devoluções",
+  "body": "D﻿evoluções",
+  "meta_title": "Devoluções",
+  "meta_description": "Devoluções",
+  "sections": [
+    {
+      "type": "breadcrumbs",
+      "enabled": true
+    },
+    {
+      "type": "page-title",
+      "title": "Devoluções"
+    },
+    {
+      "type": "extra-page",
+      "enabled": true
+    }
+  ]
+}
